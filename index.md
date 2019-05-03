@@ -1,7 +1,9 @@
+<img src="img5.jpg" alt="Logo">
+
 **YEDUKRISHNAN R** <br>
 Email: -yedukrishnanyedukrishnan@gmail.com<br>
 Phone : 8848929948,9447556721
-<img src="img5.jpg" alt="Logo">
+
 ### Career Objective
 
 To continuously improve and grow through acquisition of knowledge and skills and contribute productively to the organization.
