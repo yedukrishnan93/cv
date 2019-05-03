@@ -5,7 +5,8 @@ Phone : 8848929948,9447556721
 ### Career Objective
 
 To continuously improve and grow through acquisition of knowledge and skills and contribute productively to the organization.
-
+### Experience
+-Working as Software Developer at <a href="https://www.eglobeits.com/"> EglobeIt Solutions</a> by 7 Months
 ### Education
 - MCA from Sree Narayana Institute of Technology, Vadakkevila,kollam(2015-2018) - 70% mark
 - B.Sc Computer Science from I.H.R.D Collage of Applied Science,Kundara,Kollam(2012-2015) 
