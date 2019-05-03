@@ -1,35 +1,34 @@
- YEDUKRISHNAN R
+ ## YEDUKRISHNAN R <br>
+Email: -yedukrishnanyedukrishnan@gmail.com<br>
+Phone : 8848929948,9447556721
+[Image](src)
 
+### Career Objective
 
+To continuously improve and grow through acquisition of knowledge and skills and contribute productively to the organization.
 
-### Markdown
+### Education
+- MCA from Sree Narayana Institute of Technology, Vadakkevila,kollam(2015-2018) - 70% mark
+- B.Sc Computer Science from I.H.R.D Collage of Applied Science,Kundara,Kollam(2012-2015) 
+- 12Th CBSE studied in SreeGurudeva Central School, kudikkodu,Nedumoncavu,kollam(2011)
+- 10Th Kerala State Board studied in Govt. Higher Secondary School Vakkanadu,kollam(2009)
+### Technical Proficiency
+- Worked on ionic-3 and ionic 4
+- Worked on angular 7
+- Worked on c# console application 
+- Knowledge in frames works CodeIgnetor,Django and Express.js 
+- Knowledge of C , C++, Java programming Languages.
+- Knowledge of Windows, Linux and Android OS.
+- Working knowledge of MS Office.
+### Personal Information
+- Age : 26 yrs.
+- DOB : 16-05-1993
+- Gender : Male
+- Languages Known : English & Malayalam.
+- Hobbies & Interests : Competitive Gaming, Puzzle solving.
+- Address : Mullavelil Madom, Nedumoncavu P.O ,Kollam – 691509
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yedukrishnan93/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Projects Worked
+- **Usxs Mobile Application**:Hybrid  Mobile application developed using ionic-3 for Shoping.
+- **Usxs Staff Application**:  Hybrid  Mobile application developed using ionic-4 for Staffs in a store
+- **Usxs Mirror**: Desktop application used for advertisment Screens using angualr 7 and elctron.js and MySql as data base
