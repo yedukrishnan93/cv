@@ -17,6 +17,7 @@ To continuously improve and grow through acquisition of knowledge and skills and
 - Worked on angular 7
 - Worked on c# console application 
 - Knowledge in frames works CodeIgnetor,Django and Express.js 
+- Knowledge in git repositories github and bitbucket
 - Knowledge of C , C++, Java programming Languages.
 - Knowledge of Windows, Linux and Android OS.
 - Working knowledge of MS Office.
@@ -32,4 +33,4 @@ To continuously improve and grow through acquisition of knowledge and skills and
 ### Projects Worked
 - **Usxs Mobile Application**:Hybrid  Mobile application developed using ionic-3 for Shoping.
 - **Usxs Staff Application**:  Hybrid  Mobile application developed using ionic-4 for Staffs in a store
-- **Usxs Mirror**: Desktop application used for advertisment Screens using angualr 7 and elctron.js and MySql as data base
+- **Usxs Mirror**: Desktop application used for advertisment Screens using angualr 7 and electron.js and MySql as data base
