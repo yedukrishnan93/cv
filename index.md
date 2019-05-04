@@ -17,7 +17,7 @@ To continuously improve and grow through acquisition of knowledge and skills and
 - Worked on ionic-3 and ionic 4
 - Worked on angular 7
 - Worked on c# console application 
-- Knowledge in frames works CodeIgniter,Django and Express.js 
+- Knowledge in frameworks CodeIgniter,Django and Express.js 
 - Knowledge in git repositories github and bitbucket
 - Knowledge of C , C++, Java programming Languages.
 - Knowledge of Windows, Linux and Android OS.
