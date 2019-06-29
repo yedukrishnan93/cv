@@ -6,7 +6,7 @@ Phone : 8848929948,9447556721
 
 To continuously improve and grow through acquisition of knowledge and skills and contribute productively to the organization.
 ### Experience
--Working as a Software Developer at <a href="https://www.eglobeits.com/"> EglobeIt Solutions</a> by 7 Months
+-Working as a Software Developer at <a href="https://www.eglobeits.com/"> EglobeIt Solutions</a> by 9 Months
 ### Education
 - MCA from Sree Narayana Institute of Technology, Vadakkevila,kollam(2015-2018) - 70% mark
 - B.Sc Computer Science from I.H.R.D Collage of Applied Science,Kundara,Kollam(2012-2015) 
@@ -14,10 +14,11 @@ To continuously improve and grow through acquisition of knowledge and skills and
 - 10Th Kerala State Board studied in Govt. Higher Secondary School Vakkanadu,kollam(2009)
 
 ### Technical Proficiency
+- Working on angular 7
 - Worked on ionic-3 and ionic 4
-- Worked on angular 7
+- Worked on Node.js
 - Worked on c# console application 
-- Knowledge in frameworks CodeIgniter,Django and Express.js 
+- Knowledge in frameworks Laravel and Express.js 
 - Knowledge in git repositories github and bitbucket
 - Knowledge of C , C++, Java programming Languages.
 - Knowledge of Windows, Linux and Android OS.
