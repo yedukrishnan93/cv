@@ -20,7 +20,7 @@ To continuously improve and grow through acquisition of knowledge and skills and
 - Worked on c# console application 
 - Knowledge in frameworks Laravel and Express.js 
 - Knowledge in git repositories github and bitbucket
-- Knowledge of C , C++, Java programming Languages.
+- Knowledge of C , C++, Java,Javascript,PHP programming Languages.
 - Knowledge of Windows, Linux and Android OS.
 - Working knowledge of MS Office.
 
