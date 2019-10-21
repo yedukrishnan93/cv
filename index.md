@@ -14,6 +14,7 @@ To continuously improve and grow through acquisition of knowledge and skills and
 - 12Th CBSE studied in SreeGurudeva Central School, kudikkodu,Nedumoncavu,kollam(2011)
 - 10Th Kerala State Board studied in Govt. Higher Secondary School Vakkanadu,kollam(2009)
 
+
 ### Technical Proficiency
 - Working on angular 7
 - Working on electron.js and mysql
