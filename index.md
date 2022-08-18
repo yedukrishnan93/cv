@@ -34,13 +34,17 @@ To continuously improve and grow through acquisition of knowledge and skills and
 - Working knowledge of MS Office.
 
 ### Personal Information
-- Age : 26 yrs.
+- Age : 28 yrs.
 - DOB : 16-05-1993
 - Gender : Male
 - Languages Known : English & Malayalam.
 - Address : Mullavelil Madom, Nedumoncavu P.O ,Kollam,Kerala – 691509
 
 ### Projects Worked
+- **Lode BullPen**:Website for purchasing NFTs,developed using react.
+- **Benson Captial LPMS**:Website for leagal practice management for attorneys and their clients.
+- **Gobeagle**:Websilte for managing document filings for LLPs.
+- **Swit Sites**:Website for Land Analysis & Development Due-Diligence.
 - **Usxs Mobile Application**:Hybrid  Mobile application developed using ionic-3 for Shoping.
 - **Usxs Staff Application**:  Hybrid  Mobile application developed using ionic-4 for Staffs in a store
 - **Usxs Mirror**: Desktop application used for advertisement screens using angular 7,electron.js and MySql as data base
