@@ -6,7 +6,8 @@ Phone : 8848929948,9447556721
 
 To continuously improve and grow through acquisition of knowledge and skills and contribute productively to the organization.
 ### Experience
-- Software Developer at <a href="https://www.eglobeits.com/">  EglobeIt Solutions  </a> by 1 year.
+- <a href="https://www.eglobeits.com/">  EglobeIt Solutions  </a>:1 year(2018 - 2019).
+- <a href="https://inapp.com/">  InApp Information Technologies  </a>:2.5 years (2019 - present).
 
 ### Education
 - MCA from Sree Narayana Institute of Technology, Vadakkevila,kollam(2015-2018)
@@ -16,8 +17,11 @@ To continuously improve and grow through acquisition of knowledge and skills and
 
 
 ### Technical Proficiency
-- Working on angular 7
-- Working on electron.js and mysql
+- 2.5 years Experience in React.js
+- Familiar with Redux,Conext
+- Worked on both react class and functional components
+- Worked on angular 7
+- Worked on electron.js and mysql
 - Worked on angular 6
 - Worked on ionic-3 and ionic-4
 - Worked on Node.js
