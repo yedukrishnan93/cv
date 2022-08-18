@@ -18,7 +18,7 @@ To continuously improve and grow through acquisition of knowledge and skills and
 
 ### Technical Proficiency
 - 2.5 years Experience in React.js
-- Familiar with Redux,Conext
+- Familiar with Redux,Context state management libraries
 - Worked on both react class and functional components
 - Worked on angular 7
 - Worked on electron.js and mysql
