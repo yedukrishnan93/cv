@@ -6,8 +6,8 @@ Phone : 8848929948,9447556721
 
 To continuously improve and grow through acquisition of knowledge and skills and contribute productively to the organization.
 ### Experience
-- <a href="https://www.eglobeits.com/">  EglobeIt Solutions  </a>:1 year(2018 - 2019).
-- <a href="https://inapp.com/">  InApp Information Technologies  </a>:2.5 years (2019 - present).
+- Software Developer@<a href="https://www.eglobeits.com/">  EglobeIt Solutions  </a>:1 year(2018 - 2019).
+- Senior Sofware Engineer@<a href="https://inapp.com/">  InApp Information Technologies  </a>:2.5 years (2019 - present).
 
 ### Education
 - MCA from Sree Narayana Institute of Technology, Vadakkevila,kollam(2015-2018)
