@@ -1,5 +1,5 @@
 **YEDUKRISHNAN R** <br>
-Email: -yedukrishnanyedukrishnan@gmail.com<br>
+Email: -yedukrishnan.r.s@gmail.com<br>
 Phone : 8848929948,9447556721
 
 ### Career Objective
@@ -7,7 +7,7 @@ Phone : 8848929948,9447556721
 To continuously improve and grow through acquisition of knowledge and skills and contribute productively to the organization.
 ### Experience
 - Software Developer@<a href="https://www.eglobeits.com/">  EglobeIt Solutions  </a>:1 year(2018 - 2019).
-- Senior Sofware Engineer@<a href="https://inapp.com/">  InApp Information Technologies  </a>:2.5 years (2019 - present).
+- Senior Sofware Engineer@<a href="https://inapp.com/">  InApp Information Technologies  </a>:4 years (2019 - present).
 
 ### Education
 - MCA from Sree Narayana Institute of Technology, Vadakkevila,kollam(2015-2018)
@@ -17,7 +17,7 @@ To continuously improve and grow through acquisition of knowledge and skills and
 
 
 ### Technical Proficiency
-- 2.5 years Experience in React.js
+- 4 years Experience in React.js
 - Familiar with Redux,Context state management libraries
 - Worked on both react class and functional components
 - Worked on angular 7
@@ -34,13 +34,14 @@ To continuously improve and grow through acquisition of knowledge and skills and
 - Working knowledge of MS Office.
 
 ### Personal Information
-- Age : 28 yrs.
+- Age : 30 yrs.
 - DOB : 16-05-1993
 - Gender : Male
 - Languages Known : English & Malayalam.
 - Address : Mullavelil Madom, Nedumoncavu P.O ,Kollam,Kerala – 691509
 
 ### Projects Worked
+- **Artemis**:Website for handling service request for robotic surgery machines`.
 - **Lode BullPen**:Website for purchasing NFTs,developed using react.
 - **Benson Captial LPMS**:Website for leagal practice management for attorneys and their clients.
 - **Gobeagle**:Websilte for managing document filings for LLPs.
