@@ -17,6 +17,8 @@ To continuously improve and grow through acquisition of knowledge and skills and
 - 10Th Kerala State Board studied in Govt. Higher Secondary School Vakkanadu,kollam(2009)
 
 
+
+
 ### Technical Proficiency
 - 4 years Experience in React.js
 - Familiar with Redux,Context state management libraries
