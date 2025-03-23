@@ -7,7 +7,7 @@ Phone : 8848929948,9447556721
 To continuously improve and grow through acquisition of knowledge and skills and contribute productively to the organization.
 ### Experience
 - System Analyst@<a href="https://inapp.com/">  InApp Information Technologies  </a>:3 months (2025 - present).
-- Senior Sofware Engineer@<a href="https://inapp.com/">  InApp Information Technologies  </a>:5 years 1 month years (2019 - present).
+- Senior Sofware Engineer@<a href="https://inapp.com/">  InApp Information Technologies  </a>:5 years 1 month (2019 - present).
 - Software Developer@<a href="https://www.eglobeits.com/">  EglobeIt Solutions  </a>:1 year(2018 - 2019).
 
 
