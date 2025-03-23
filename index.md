@@ -54,7 +54,6 @@ Front End Technology: React.js with Context for state management <br/>
 - **Gobeagle** <br />
 	GoBeagle, Inc is a company that helps to easily navigate the world of corporate compliance,<br />
 The project is for developing a website for managing corporate compliance for different LLPs. <br/>
-
 Front End Technology: React.js with Context for state management <br />
 Back End Technology: AWS server less with dynamo DB <br />
 
