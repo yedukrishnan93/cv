@@ -25,7 +25,6 @@ To continuously improve and grow through acquisition of knowledge and skills and
      Have 5 years 4 months of experience in React.js, Familiar with Redux, Context   state management libraries, Worked on both react class and functional components. Done 5 projects in React.js<br />
 - **Angular** <br />
      Have 1 year experience in Angular, worked on Angular version 6 and 7.<br />
-
 - Worked on Ionic 3 and Ionic 4<br />
 - Worked on Electron.js and Mysql<br />
 - Knowledge in HTML, CSS, Javascript, Typescript<br />
